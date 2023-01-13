@@ -4,4 +4,4 @@ input.onButtonPressed(Button.A, function () {
 input.onButtonPressed(Button.B, function () {
     basic.showIcon(IconNames.Skull)
 })
-basic.showIcon(IconNames.Yes)
+basic.showIcon(IconNames.Surprised)
